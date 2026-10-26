@@ -81,4 +81,3 @@ src/main/java
 └── TaskStorage.java  # loads and saves tasks.json with Jackson
 ```
 
-https://roadmap.sh/projects/task-tracker
